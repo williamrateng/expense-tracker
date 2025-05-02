@@ -1,4 +1,4 @@
-# expense-tracker# 🧾 Expense Tracker (Python CLI)
+Expense Tracker 
 
 A simple command-line expense tracker written in Python. This tool allows you to manage your personal finances by recording incomes and expenses, viewing your current balance, and reviewing transaction history — all from your terminal.
 
